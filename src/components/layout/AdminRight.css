@@ -1,0 +1,16 @@
+.AdminRight {
+  position: absolute; 
+  z-index: 10;
+  padding-left: 200px; 
+  width: 100% ;
+  min-width: 800px;
+  height: 100%;
+  background: #fff;
+  box-sizing: border-box;
+  overflow-x: hidden;
+  overflow-y: auto
+}
+
+.content {
+  padding: 20px;
+}

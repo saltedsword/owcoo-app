@@ -1,0 +1,33 @@
+.header {
+	border-bottom: 1px solid #ddd;
+	height: 51px;
+}
+.breadcrumb {
+	height: 51px;
+	line-height: 51px;
+	padding-left: 20px;
+	padding-top: 19px;
+	box-sizing: border-box;
+	float: left;
+}
+
+.user-box {
+	float: right;
+	margin-top: 8px;
+	margin-right: 8px;
+	padding: 10px;
+	cursor: pointer;
+}
+
+.user-box:hover {
+	background: #ddd;
+	border-radius: 5px;
+}
+
+.dropdown {
+	margin-top: 13px;
+	width: 120px;
+	border-radius: 5px;
+	margin-right: -8px;
+
+}

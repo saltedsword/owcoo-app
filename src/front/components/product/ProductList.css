@@ -1,0 +1,26 @@
+.front-productList .el-card {
+  margin-bottom: 10px;
+}
+
+.front-productList .el-card img {
+  width: 100%;
+  min-height: 241.33px;
+  display: block;
+}
+
+.front-productList .el-card .proTitle {
+  line-height: 20px;
+}
+
+.front-productList .el-card .bottom {
+  margin-top: 13px;
+  line-height: 12px;
+}
+.front-productList .el-card .time {
+    font-size: 13px;
+    color: #999;
+}
+.front-productList .el-card .button {
+    padding: 0;
+    float: right;
+}

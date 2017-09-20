@@ -1,0 +1,11 @@
+.front-showArticle .article-infos {
+  color: #818181;
+  font-size: 12px;
+  margin-bottom: 30px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+.front-showArticle .article-time {
+    padding-right: 6px;
+}

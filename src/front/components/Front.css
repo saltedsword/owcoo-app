@@ -1,0 +1,68 @@
+.front {
+  overflow-x: hidden;
+}
+.front-pagination{
+  text-align: center;
+  margin: 15px auto;
+}
+
+.front-show-title {
+  font-size: 28px;
+  font-weight: normal;
+  padding: 5px 0;
+  line-height: 50px;
+}
+
+.front-show-ctitle {
+  margin: 30px 0 10px;
+  padding: 0 10px;
+  font-size: 16px;
+  font-weight: normal;
+  height: 40px;
+  line-height: 40px;
+  border-bottom: 1px solid #ddd;
+}
+
+.front-show-tools {
+  border-top: 1px solid #ddd;
+  margin-top: 30px;
+  position: relative;
+  padding: 10px 10px 0;
+  height: 50px;
+  line-height: 50px;
+}
+
+.front-show-editor {
+  padding: 0 10px;
+  color: #3f3f3f;
+}
+
+.front-show-tools {
+  border-top: 1px solid #ddd;
+  margin-top: 30px;
+  position: relative;
+  padding: 10px 10px 0;
+  height: 50px;
+  line-height: 50px;
+}
+.front-show-tools .front-show-page {
+  clear: both;
+  position: absolute;
+  right: 5px;
+  top: 0;
+}
+.front-show-tools .front-show-page li {
+  display: inline;
+  list-style: none;
+  margin-left: 30px;
+}
+
+.front-show-tools .front-show-page li span {
+  padding-right: 5px;
+}
+
+.el-carousel h3{
+  margin: 0;
+  padding: 0;
+}
+

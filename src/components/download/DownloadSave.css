@@ -1,0 +1,84 @@
+.download-details {
+  border: 1px solid #ddd;
+  border-bottom: none;
+}
+
+.belong-column, .belong-column-first {
+  border-bottom: 1px solid #ddd;
+  padding: 20px;
+  position: relative;
+}
+
+.belong-column-first {
+  padding-bottom: 30px;
+}
+
+.belong-column-first h4 {
+  width: 120px;
+  padding-top: 10px;
+}
+
+.belong-column h4 {
+  width: 120px;
+  padding-top: 10px;
+  float: left;
+}
+
+.belong-column h4 em {
+  color: #f00;
+}
+
+.belong-column-first .column-select {
+  width: 120px;
+  float: left;
+  top: -25px;
+  left: 110px;
+}
+
+.belong-column .download-title {
+  width: 350px;
+  height: 35px;
+  padding-left: 10px;
+  border: 1px solid #bfcbd9;
+  border-radius: 5px;
+}
+
+.download-content {
+  border-bottom: 1px solid #ddd;
+}
+
+.download-content h3 {
+  height: 37px;
+  line-height: 37px;
+  background: #f7f7f7;
+  padding-left: 20px;
+  border-bottom: 1px solid #ddd;
+}
+
+.download-content .details-content {
+  width: 500px;
+  height: 200px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding-left: 10px;
+  margin: 20px;
+}
+
+.status-select {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.download-button {
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+  height: 55px;
+  margin-left: -10px;
+  background: #dff0d8;
+  z-index: 999;
+}
+
+.save-icon {
+  margin: 10px;
+}

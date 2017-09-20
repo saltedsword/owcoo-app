@@ -1,0 +1,38 @@
+.list-toolbar {
+	margin: 10px auto;
+  height: 35px;
+}
+
+.list-toolbar .add-button {
+	float: left;
+	display: inline-block;
+}
+
+.list-toolbar .searchInput {
+  width: 200px;
+  float: right;
+}
+
+.list-toolbar .sortMenu {
+	float: right;
+	margin-right: 10px;
+}
+
+.list-toolbar .cascader {
+	float: right;
+	margin-right: 10px;
+}
+
+.pagination {
+  text-align: center;
+  margin: 15px auto;
+}
+
+.tag-text {
+	margin: 0px 5px;
+}
+
+.searchInput i {
+  cursor: pointer;
+}
+

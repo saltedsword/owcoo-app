@@ -1,0 +1,19 @@
+.form-content .ql-editor {
+  min-height: 360px;
+}
+
+.form-content .ql-snow.ql-toolbar {
+  display: block;
+  background: #eaecec;
+  border-top-left-radius: 0.5em;
+  border-top-right-radius: 0.5em;
+}
+
+.form-content .ql-snow .ql-picker-label::before {
+  display: table-row;
+  line-height: 22px;
+}
+
+.form-content .ql-snow .ql-picker-label svg {
+  display: table-row;
+}

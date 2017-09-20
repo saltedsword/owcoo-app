@@ -1,0 +1,17 @@
+.column-table-select {
+  line-height: 31px;
+  height: 31px;
+  vertical-align: middle;
+  background-color: #fff;
+  outline: 0;
+  border: 1px solid #ccc;
+  padding: 4px;
+  color: #333;
+}
+.list-toolbar .expandAll {
+  float: right;
+}
+.list-toolbar .expandAll span{
+  float: left;
+  margin-right: 5px;
+}

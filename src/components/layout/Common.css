@@ -1,0 +1,30 @@
+html, body{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  -webkit-font-smoothing: antialiased;
+  font-size: 14px;
+  font-family: Helvetica Neue,Helvetica,PingFang SC,Hiragino Sans GB,Microsoft YaHei,\\5FAE\8F6F\96C5\9ED1,Arial,sans-serif;
+}
+th {
+ font-weight: bold;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+ul li {
+  list-style-type: none;
+}
+
+a:active, a:link, a:visited {
+  text-decoration: none;
+  color: #6e7173;
+}
+a:hover {
+  color: #20a0ff;
+}
+
+.clearfix:after{display:block; content:""; height:0; clear:both; overflow:hidden; visibility:hidden;}

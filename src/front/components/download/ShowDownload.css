@@ -1,0 +1,43 @@
+.front-showDownload .paralist {
+    background: #8c989f;
+    padding: 5px 10px;
+    color: #fff;
+}
+.front-showDownload .paralist li {
+    list-style: none;
+    padding: 8px 5px 8px 90px;
+    min-height: 20px;
+    position: relative;
+    border-bottom: 1px solid #ddd;
+}
+
+.front-showDownload .paralist li:last-child {
+    border-bottom: 0;
+}
+
+.front-showDownload .paralist li span {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 80px;
+    padding: 8px 5px;
+    word-wrap: break-word;
+}
+.front-showDownload .downloadbox {
+    margin-top: 30px;
+}
+
+.front-showDownload .downloadbox li{
+    line-height: 25px;
+    font-size: 14px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #ddd;
+}
+
+.front-showDownload .downloadbox .fileName{
+    padding-right: 20px;
+}
+.front-showDownload .downloadbox .fileDownload{
+    display: block;
+    float: right;
+}

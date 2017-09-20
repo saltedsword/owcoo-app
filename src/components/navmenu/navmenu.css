@@ -1,0 +1,9 @@
+.active {
+  color: green
+}
+
+.Navmenu {
+	width: 200px;
+	height: 100%;
+	text-align: left;
+}

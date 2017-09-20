@@ -1,0 +1,25 @@
+.release-box {
+	border: 1px solid #ddd;
+  width: 80%;
+}
+
+.release-content {
+	border-bottom: 1px solid #ddd;
+	padding: 25px 10px 10px 10px;
+  height: 60px; 
+}
+
+.release-content h3 {
+	float: left;
+	line-height: 38px;
+	width: 80px;
+	padding-left: 10px;
+	margin: 0;
+	font-weight: normal;
+
+}
+
+.release-box .release-button {
+	padding: 20px;
+	padding-left: 130px;
+}

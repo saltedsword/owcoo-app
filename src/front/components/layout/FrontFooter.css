@@ -1,0 +1,55 @@
+/*footer*/
+.front-footer{
+  background-color:#192c42; 
+  width:100%; 
+  border-bottom:1px solid #192c42;
+}
+
+.front-footer .footer{
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.front-footer .el-col {
+  padding-left: 60px;
+}
+
+.front-footer .el-col h3 a{
+  font-size: 16px;
+  font-weight: bold;
+  color: #a4aebd;
+  padding-top: 25px;
+}
+
+.front-footer .el-col .list li{
+  margin-bottom: 20px;
+}
+
+.front-footer .el-col .list li a{
+  color: #768193;
+  font-size: 12px;
+}
+
+.front-footer .copyright {
+  min-width: 1000px;
+  height: 59px;
+  background-color: #0f1a27;
+}
+
+.front-footer .copyright p {
+  color: #a4aebd;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.front-footer .bg {
+  position: absolute;
+  left: -20px;
+  width: 400px;
+  height: 220px;
+  background: url(../../../resources/imgs/logo.png) no-repeat 0 0;
+  z-index: 0;
+  opacity: 0.1;
+}
+/*\footer*/

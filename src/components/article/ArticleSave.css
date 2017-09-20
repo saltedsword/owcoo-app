@@ -1,0 +1,16 @@
+.form-content {
+	margin: 15px 0;
+  width: 80%;
+  padding-bottom: 50px;
+}
+
+.form-content .submit-content {
+	position: fixed;
+  z-index: 10;
+  padding: 10px 30px;
+  text-align: right;
+  right: 0;
+  bottom: 0;
+  background: none;
+  margin-bottom: 0;
+}

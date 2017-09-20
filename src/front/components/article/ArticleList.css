@@ -1,0 +1,19 @@
+.front-articleList .el-col {
+  border-bottom: 1px solid #ddd;
+  padding: 20px;
+  position: relative;
+}
+
+.front-articleList .el-col .articleTitle{
+  font-size: 16px;
+}
+.front-articleList .el-col .articleTitle i {
+  padding-right: 10px
+}
+
+.front-articleList .el-col .articleTime {
+  color: #818181;
+  display: block;
+  float: right;
+}
+

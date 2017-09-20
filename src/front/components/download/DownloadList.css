@@ -1,0 +1,29 @@
+.front-downloadList .el-col {
+    margin-bottom: 20px;
+}
+
+.front-downloadList .el-col .downloadList-title {
+    border-bottom: 1px solid #ddd;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 8px 5px 8px 0;
+}
+
+.front-downloadList .el-col .downloadList-info {
+    color: #999;
+    padding: 8px;
+    background: #f7f8fa;
+}
+
+.front-downloadList .el-col .downloadList-info div {
+    float: right;
+}
+.front-downloadList .el-col .downloadList-info a {
+    color: #20a0ff;
+}
+.front-downloadList .el-col .downloadList-info a.down {
+    color: #fa1a1a;
+}
+.front-downloadList .el-col .downloadList-info span {
+    padding-right: 20px;
+}

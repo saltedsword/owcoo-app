@@ -1,0 +1,81 @@
+/*header*/
+.front-header{
+	width:100%; 
+	margin: auto;
+}
+
+.front-top {
+	height:34px; 
+	background-color:#000; 
+	border-bottom:1px solid #262626;
+}
+.front-top .tel{
+	color:#f2f2f2; 
+	padding:0 20px; 
+	font-size:14px; 
+	top:8px;
+	line-height:35px;
+	float:right;
+}
+.front-top .tel i{
+	display:block;
+	width:14px; 
+	height:23px; 
+	margin:10px 4px 0 0;
+	float:left;
+}
+
+.front-navmenu-wrap {
+  background-color: #fff;
+  border-bottom: 1px solid #bec0c5;
+  box-shadow: 0 0 3px 0px #9b9b9b;
+}
+
+.front-navmenu {
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.front-navmenu .el-menu-item, .front-navmenu .el-submenu__title {
+	font-size: 16px;
+	color: #474950;
+}
+
+.front-navmenu .el-menu--dark .el-submenu__title:hover, .front-navmenu .el-menu--dark .el-menu-item:hover {
+	background-color: #fff;
+	color: #20a0ff;
+	border-bottom: none;
+}
+.front-navmenu .el-menu-item.is-active {
+	color: #20a0ff;
+}
+.front-navmenu li i {
+	display: none;
+}
+
+.front-navmenu .el-submenu .el-menu-item {
+	display: inline-block;
+  height: 43px;
+  line-height: 43px;
+  padding: 0 20px;
+  min-width: 100%;
+  text-align: center;
+}
+
+.front-header .logo{
+	position: relative;
+	float: left;
+	width:170px; 
+	height:60px;
+}
+
+.front-navmenu .el-menu-demo {
+  left: 230px;
+  padding-left: 50px;
+}
+
+.front-navmenu .el-menu--dark {
+	background-color: #fff;
+}
+

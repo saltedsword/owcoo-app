@@ -1,0 +1,33 @@
+.login-form {
+  padding-top: 200px;
+}
+
+
+.login-form .login-container {
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  background-clip: padding-box;
+  padding: 25px 35px 10px;
+  background: #fff;
+  border: 1px solid #eaeaea;
+  -webkit-box-shadow: 0 0 25px #cac6c6;
+  box-shadow: 0 0 25px #cac6c6;
+}
+
+.login-form .pannel-title{
+  margin: 0;
+  margin-bottom: 15px;
+  border-bottom: 1px solid #f1f1f1;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.login-form .pannel-title span{
+  color: #20a0ff;
+  border-bottom: 1px solid #20a0ff;
+  display: inline-block;
+  padding: 5px 0;
+  margin-bottom: -1px;
+}
+
+    

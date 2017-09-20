@@ -1,0 +1,60 @@
+.front-content {
+  width: 1000px;
+  min-height: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.front-content .front-guide {
+  padding: 20px 0 0 0;
+}
+
+.front-content .front-space {
+  margin-top: 25px;
+}
+
+.front-content .item_l {
+  float: left;
+  width: 200px;
+  margin-right: 25px;
+  border: 1px solid #ddd;
+}
+
+.front-content .item_l h2 {
+  padding: 0 20px;
+  height: 60px;
+  border-bottom: 1px solid #ddd;
+  font-size: 18px;
+  line-height: 60px;
+}
+
+.front-content .item_l .el-row {
+  padding: 10px 0;
+}
+.front-content .item_l .el-row a{
+  padding: 0 20px;
+  font-size: 14px;
+  line-height: 45px;
+}
+.front-content .item_l .el-row .cur{
+  background-color: #20a0ff;
+}
+.front-content .item_l .el-row .cur a{
+  font-weight: bold;
+  color: #fff;
+}
+.front-content .item_l .el-row .class2{
+  font-size: 16px;
+  margin-left: 20px;
+}
+.front-content .item_l .el-row .class3{
+  margin-left: 40px;
+}
+.front-content .item_r {
+  width: 750px;
+  float: right;
+  padding: 10px 0 10px 0;
+  border: solid 0px #bfd6f3;
+  border-top: 1px solid #ddd;
+}
+

@@ -1,0 +1,65 @@
+/*新手指引*/
+
+.guide {
+	border: 1px solid #ddd;
+	margin-bottom: 10px;
+}
+
+.guide .guide-content a:hover {
+	color: #23b7e5;
+}
+
+.guide h3, .visit h3, .recommend h3, .metInfo h3 {
+	height: 38px;
+	line-height: 38px;
+	padding-left: 15px;
+	background: #f7f7f7;
+	border-bottom: 1px solid #ddd;
+}
+
+.guide-content {
+	padding-right: 15px;
+	padding-left: 15px;
+	margin: 0 auto;
+}
+
+.guide-content ul {
+	height: 105px;
+	padding: 10px;
+	box-sizing: border-box;
+}
+
+.guide-content ul li {
+	float: left;
+	height: 85px;
+	width: 20%;
+	text-align: center;
+	position: relative;
+	cursor: pointer;
+}
+
+.guide-content ul li a {
+	color: #777;
+	display: block;
+}
+
+.guide-content ul li a i {
+	display: block;
+	font-size: 30px;
+	margin: 17px 0px 2px;
+}
+
+.guide-content ul li a span {
+	display: block;
+	margin: 10px 0px 0px 0px;
+}
+
+.guide-content ul li i.fa-angle-right {
+	display: block;
+	font-size: 60px;
+	position: absolute;
+	right: -10px;
+	top: 50%;
+	margin-top: -30px;
+	color: #eee;
+}

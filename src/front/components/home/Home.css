@@ -1,0 +1,173 @@
+.front-home {
+    overflow-x: hidden;
+}
+.front-banner {
+  min-width: 1000px;
+}
+.front-index-item {
+    padding: 50px 0 80px;
+}
+.front-index-item-two {
+    border-top: 1px solid #e7e8ed;
+    border-bottom: 1px solid #e7e8ed;
+    background: #f7f8fa;
+}
+
+.front-index-item .index-innerWrap {
+    position: relative;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.front-index-title {
+    margin: 0 0 60px 0;
+    border-bottom: 1px solid #ccc;
+    text-align: center;
+    font-weight: normal;
+    font-size: 22px;
+}
+.front-index-title span {
+    position: relative;
+    top: 2px;
+    display: inline-block;
+    padding: 10px 15px;
+    border-bottom: 4px solid #666;
+}
+.front-index-about-cont {
+    margin-right: 25px;
+    padding: 50px 0;
+}
+
+.front-index-about-cont .about-txt-editor{
+    padding: 0 50px 0;
+}
+.front-index-about-cont .about-more{
+	position: relative;
+  width: 220px;
+  left: 50px;
+  top: 20px;
+}
+
+.front-index-product-cont .el-card {
+  margin-bottom: 20px;
+}
+
+.front-index-product-cont .el-card img {
+  width: 100%;
+  min-height: 241.33px;
+  display: block;
+}
+.front-index-product-cont .el-card .proTitle {
+  line-height: 20px;
+}
+.front-index-product-cont .el-card .bottom {
+  margin-top: 13px;
+  line-height: 12px;
+}
+.front-index-product-cont .el-card .time {
+    font-size: 13px;
+    color: #999;
+}
+.front-index-product-cont .el-card .button {
+    padding: 0;
+    float: right;
+}
+.front-index-product-cont h4 {
+	text-align: center;
+}
+.front-index-product-cont .about-more{
+  width: 220px;
+}
+
+.front-index-article-cont .article-cate{
+  margin: 0;
+  margin-bottom: 15px;
+  border-bottom: 1px solid #f1f1f1;
+}
+.front-index-article-cont .article-cate span {
+	color: #20a0ff;
+  border-bottom: 1px solid #20a0ff;
+  display: inline-block;
+  padding: 5px 0;
+  margin-bottom: -1px;
+}
+.front-index-article-cont ul li {
+    font-size: 14px;
+    position: relative;
+    padding-left: 15px;
+    border-bottom: 1px dashed #ededed;
+}
+.front-index-article-cont ul li:before {
+	  position: absolute;
+    top: 20px;
+    left: 0;
+    width: 6px;
+    height: 6px;
+    border-radius: 3px;
+    background: #20a0ff;
+    content: "";
+}
+.front-index-article-cont ul li a {
+	display: block;
+  line-height: 30px;
+  padding: 8px 0;
+  width: 80%;
+}
+
+.front-index-article-cont ul li span {
+  position: absolute;
+  right: 15px;
+  top: 15px;
+  color: #6e7173;
+}
+
+.front-index-article-cont .el-col {
+	margin-bottom: 20px;
+}    
+.front-index-article-cont h4 {
+	text-align: center;
+}
+.front-index-article-cont .about-more{
+  width: 220px;
+}
+
+.front-index-picture-cont {
+    padding-bottom: 35px;
+    margin-bottom: 40px;
+    overflow: hidden;
+    border-bottom: 1px dashed #f1f1f1;
+}
+
+.front-index-picture-cont .mainImg {
+    margin-right: 30px;
+    height: auto;
+    display: block;
+    position: relative;
+}
+.front-index-picture-cont .mainImg img{
+    width: 100%;
+}
+
+.front-index-picture-cont .description .title h2 {
+    font-size: 18px;
+    margin: 0;
+    color: #6e7173;
+}
+
+.front-index-picture-cont .description .post-meta li {
+    display: inline-block;
+    font-size: 13px;
+    color: #bbb;
+    margin: 10px 10px 10px 0;
+}
+
+.front-index-picture-cont .description .des {
+    font-size: 15px;
+    color: #828a92;
+}
+.front-index-picture-cont h4 {
+  text-align: center;
+}
+.front-index-picture-cont .about-more{
+  width: 220px;
+}
