@@ -71,7 +71,7 @@ class UserGroupList extends Component {
       <div>
         <div className="list-toolbar">
           <div className="add-button">
-            <Button type="danger" onClick={() => this.update()}>添加管理组</Button>
+            <Button type="danger" onClick={() => this.props.update()}>添加管理组</Button>
           </div>
         </div>
         
