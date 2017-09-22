@@ -49,7 +49,7 @@ class Header extends Component {
               </Dropdown.Menu>
             )}>
               <span className="el-dropdown-link">
-                {localStorage.getItem('user') ? localStorage.getItem('user').userName : '' }<i className="el-icon-caret-bottom el-icon--right"></i>
+                {localStorage.getItem('user') ? JSON.parse(localStorage.getItem('user')).userName : '' }<i className="el-icon-caret-bottom el-icon--right"></i>
               </span>
             </Dropdown>
       </div>
